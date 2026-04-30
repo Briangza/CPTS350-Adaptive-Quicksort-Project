@@ -22,4 +22,5 @@ The main focus is the **Adaptive Quicksort**, which starts with median-of-three 
    pip install matplotlib numpy
    
 2. Open Notebook and run all cells:
-   jupyter notebook CPTS350_Milestone3_AdaptiveQuicksort.ipynb
+   ```bash
+   jupyter notebook CPTS350_AdaptiveQuicksort.ipynb
