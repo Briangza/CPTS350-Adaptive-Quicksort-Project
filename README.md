@@ -4,7 +4,7 @@ Experimental Algorithms Project for Reducing Worst-Case Risk Through Pivot Switc
 **Team:** Brian Gasca & Jacob Draper-Gilliam
 
 ### Introduction
-This project implements **five Quicksort variants** and runs large-scale statistical experiments (10,000 to 50,000 elements) to compare their performance on adversarial and random inputs.
+This project implements **five Quicksort variants** and runs large-scale statistical experiments (10,000 to 50,000 elements) over 5 trials per threshold to compare their performance on adversarial and random inputs.
 
 The main focus is the **Adaptive Quicksort**, which starts with median-of-three pivot selection and automatically switches to random pivot selection after detecting two consecutive poorly balanced partitions.
 
@@ -14,7 +14,7 @@ The main focus is the **Adaptive Quicksort**, which starts with median-of-three 
 - **Random Pivot Quicksort**
 - **Three-Way Partitioning Quicksort**
 - **Adaptive Quicksort**
-- 
+  
 ### How to Run
 
 1. Make sure you have Jupyter Notebook and the required packages installed:
