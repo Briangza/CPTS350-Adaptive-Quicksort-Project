@@ -14,6 +14,12 @@ The main focus is the **Adaptive Quicksort**, which starts with median-of-three 
 - **Random Pivot Quicksort**
 - **Three-Way Partitioning Quicksort**
 - **Adaptive Quicksort**
-
+- 
 ### How to Run
-python3 ./CPTS350Project.py
+
+1. Make sure you have Jupyter Notebook and the required packages installed:
+   ```bash
+   pip install matplotlib numpy
+   
+2. Open Notebook and run all cells:
+   jupyter notebook CPTS350_Milestone3_AdaptiveQuicksort.ipynb
