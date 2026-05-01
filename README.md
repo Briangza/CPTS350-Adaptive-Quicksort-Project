@@ -1,7 +1,7 @@
 # CPTS350-Adaptive-Quicksort-Project
 Experimental Algorithms Project for Reducing Worst-Case Risk Through Pivot Switching Quicksort Approach
 
-**Team:** Brian Gasca & Jacob Draper-Gilliam
+**Team:** Brian Gasca & Jacob Draper Gilliam
 
 ### Introduction
 This project implements **five Quicksort variants** and runs large-scale statistical experiments (10,000 to 50,000 elements) over 5 trials per threshold to compare their performance on adversarial and random inputs.
